@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Data Science with R**
 
-- 📫 How to reach me **cheryllimbeiling@gmail.com**
+- 📫 How to reach me: **cheryllimbeiling@gmail.com**
 
-- ⚡ Fun fact **I'm enjoy rock climbing ⛰️**
+- ⚡ Fun fact: **I'm enjoy rock climbing ⛰️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
