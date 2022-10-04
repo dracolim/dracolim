@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and Data analyst from Singapore</h3>
 <img align="right" alt = ‘coding’ width = ’400’ height = '230' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   
-- 🔭 I’m currently working on [crypto-telegram-bot](https://github.com/dracolim/Crypto-Telegram-Bot.git)
+- 🔭 I’m currently working on [todolist with react native](https://github.com/dracolim/Crypto-Telegram-Bot.git)
 
 - 🌱 I’m currently learning **Data Science with R**
 
