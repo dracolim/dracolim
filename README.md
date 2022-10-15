@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **cheryllimbeiling@gmail.com**
 
-- ⚡ Fun fact: **I'm enjoy rock climbing ⛰️**
+- ⚡ Fun fact: **I rock climb during my free time ⛰️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
