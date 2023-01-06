@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on [a software project management project](https://github.com/dracolim/SPM_T4.git)
 
-- 🌱 I’m currently learning **Data Science with R**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me: **cheryllimbeiling@gmail.com**
 
