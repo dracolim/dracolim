@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from 🇸🇬 </h3>
 <img align="right" alt = ‘coding’ width = ’400’ height = '230' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   
-- 🔭 I’m currently working on [building an AI chat friend](https://github.com/dracolim/AI_Chat_Friend)
+- 🔭 I’m currently working on [FYP-GoodHealth and IS442-QUANTUM](https://github.com/dracolim/FYP-GoodHealth)
 
 - 🌱 I’m currently learning **Java**
 
