@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Format Generator**]([https://github.com/dracolim/FYP-GoodHealth](https://github.com/dracolim/Format-Generator-Python.git))
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://www.cherylmalfoy.com/](https://www.cherylmalfoy.com/)
 
