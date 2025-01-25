@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://www.cherylmalfoy.com/](https://www.cherylmalfoy.com/)
+- 👨‍💻 All of my projects are available at [https://www.cherylmalfoy.com/](https://www.cheryllimbl.com/)
 
 - 📫 How to reach me **cheryllimbeiling@gmail.com**
 
