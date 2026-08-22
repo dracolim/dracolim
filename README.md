@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cheryl Lim</h1>
-<h3 align="center">A passionate Software Engineer from 🇸🇬 </h3>
+<h3 align="center">A passionate Software Engineer from 🇸🇬 based in San Francisco 🇺🇸</h3>
 <img align="right" alt = ‘coding’ width = ’400’ height = '230' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   
-- 🔭 I’m currently working on **building my personal website v2.0**
+- 🔭 I’m currently working on **building a budget ai tracker**
 
 - 🌱 I’m currently learning **Swift**
 
